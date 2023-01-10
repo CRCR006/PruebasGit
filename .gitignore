@@ -1,0 +1,10 @@
+.project
+*.java
+*.exe
+*License.txt
+*README.portable
+*cmd
+*etc
+*mingw64
+*usr
+*origin
